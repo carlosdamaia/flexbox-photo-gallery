@@ -10,4 +10,4 @@
     <img src="preview.png">
 <h2>Conclusion</h2>
     <p>In this course I've used some properties that was a little confusing to me when I first started coding. Today I can safely say that I understood.</p>
-    <p>My current goal is to master React, but first I need to complete some begginer courses on FreeCodeCamp</p>
+    <p>My current goal is to master React, but first I need to complete some begginer courses on FreeCodeCamp.</p>
